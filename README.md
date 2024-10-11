@@ -12,6 +12,7 @@ mvn package
 hadoop jar target/demo-1.0-SNAPSHOT.jar com.example.Main -D in=/k-input/data-kmeans.txt -D lines=30 -D out=/k-output -D maxloop=10 -D thresh=0.0001 -D NumReduceTask=2 -D k=4
 
 ### run project on demo 
-chmod +x run.sh
+chmod +x run.sh 
+\
 ./run.sh
 
