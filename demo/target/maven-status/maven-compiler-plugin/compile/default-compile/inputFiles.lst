@@ -1,0 +1,5 @@
+/mnt/d/KmeanMapReduceV1/demo/src/main/java/com/example/Main.java
+/mnt/d/KmeanMapReduceV1/demo/src/main/java/com/example/KCombiner.java
+/mnt/d/KmeanMapReduceV1/demo/src/main/java/com/example/PointWritable.java
+/mnt/d/KmeanMapReduceV1/demo/src/main/java/com/example/KMapper.java
+/mnt/d/KmeanMapReduceV1/demo/src/main/java/com/example/KReducer.java
